@@ -43,12 +43,14 @@ Each cell on the map contains a capital letter **(A-Z)**, and the
     ├── README.md
     │
     ├── Milestone_01/
-    │   └── co222-project-m1.c        <- Basic BFS Pathfinding
+    │   └── e19169_milestone1.c        <- Basic BFS Pathfinding
     │
     ├── Milestone_02/
-    │   ├── task1_fibonacci.c          <- Fibonacci Matcher
-    │   ├── task2_teleportation.c      <- Multi-point Distance Calculator
-    │   └── task3_full_solution.c      <- Complete Solution
+    │   ├── task01.c      <- Fibonacci Matcher
+    │   ├── task01.exe
+    │   ├── task01.o
+    │   ├── task02.c      <- Multi-point Distance Calculator
+    │   └── task03.c      <- Complete Solution
     │
     └── Milestones/
         ├── CO222 Project Milestone 01 V2.pdf
