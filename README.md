@@ -50,9 +50,9 @@ Each cell on the map contains a capital letter **(A-Z)**, and the
     │   ├── task2_teleportation.c      <- Multi-point Distance Calculator
     │   └── task3_full_solution.c      <- Complete Solution
     │
-    └── docs/
-        ├── Milestone01_Brief.pdf
-        └── Milestone02_Brief.pdf
+    └── Milestones/
+        ├── CO222 Project Milestone 01 V2.pdf
+        └── CO222 Project Milestone 02.pdf
 
 ---
 
